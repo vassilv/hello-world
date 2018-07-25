@@ -1,3 +1,3 @@
 # hello-world
 
-Hi humans! Here's Vassil! I'm so alone, anybody there?
+Hi humans! Here's Vassil! And I'm on planet Earth! I'm so alone, anybody there?
